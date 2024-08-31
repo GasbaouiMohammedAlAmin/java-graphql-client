@@ -19,7 +19,7 @@ the java client graphql side allows you:
 https://www.youtube.com/watch?v=KpqWrvCAjsw
 
 ### video explanation for java graphql client side. 
-
+https://www.youtube.com/watch?v=cAQI_gpALdQ
 # screenshot
 
 ![](graphql_client.JPG)
